@@ -82,13 +82,7 @@ LinkedIn-Notifier/
 
 📄 account.csv
 
-Add the LinkedIn profiles you want to monitor:
-
-Name,LinkedIn_Account
-Bhadraksh Bhargava,https://www.linkedin.com/in/bhadraksh-bhargava/
-Tenali Likhitha,https://www.linkedin.com/in/tenali-likhitha-752683284/
-Bhuvan M Acharya,https://www.linkedin.com/in/bhuvan-m-acharya-7b9256335/
-
+Add the LinkedIn profiles you want to monitor
 Use normal URLs in the CSV. Do not use Markdown link syntax.
 
 ⚙️ Installation
